@@ -67,8 +67,8 @@
   "modpack": {
     "modpackMemory": false,
     "memory": 0,
-    "id": -32261333103700,
-    "name": "teste",
+    "id": -34614433618800,
+    "name": "servern-t",
     "favorite": false,
     "version": {
       "mods": [
@@ -751,7 +751,7 @@
         "id": 4016,
         "name": "47.4.0"
       },
-      "id": -32261333105901,
+      "id": -34614433631301,
       "name": "1.0",
       "available": false,
       "minecraftVersionTypes": [
