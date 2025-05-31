@@ -17,5 +17,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-31 20:35:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-05-31 20:38:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-05-31 20:38:26 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
