@@ -7,13 +7,56 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "rocky_shrubland": "2025-05-31 19:58:48 -0300"
+      "rocky_shrubland": "2025-05-31 19:58:48 -0300",
+      "grassland": "2025-06-08 21:04:50 -0300"
     },
     "done": false
   },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "rocky_shrubland": "2025-05-31 19:58:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-06-08 21:03:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-06-08 21:03:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-06-08 21:03:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-06-08 21:03:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-06-08 21:03:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-06-08 21:03:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-06-08 21:03:54 -0300"
     },
     "done": true
   },
