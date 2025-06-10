@@ -13,7 +13,8 @@
 !/mods/
 !/mods/**
 
-# !/saves/
-# !/saves/**
+!/saves/
+!/saves/
 
-# /saves/mundo teste
+/saves/mundo_teste/playerdata
+/saves/mundo_teste/advancements
