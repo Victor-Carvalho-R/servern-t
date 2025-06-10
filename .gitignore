@@ -1,2 +1,19 @@
-# /*
-# !.gitignore
+/*
+!.gitignore
+
+!/config/
+!/config/**
+
+!/defaultconfigs/
+!/defaultconfigs/**
+
+!/journeymap/
+!/journeymap/**
+
+!/mods/
+!/mods/**
+
+# !/saves/
+# !/saves/**
+
+# /saves/mundo teste
